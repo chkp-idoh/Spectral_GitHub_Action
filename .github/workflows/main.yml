@@ -8,7 +8,7 @@ env:
 
 jobs:
   ubuntu-ci:
-    name: Spectral ubuntu CI
+    name: Spectral CI
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
